@@ -5,7 +5,7 @@ internal class Program
     {
         DataService ds = new DataService();
 
-        Console.Title = "Спринт #3 | Выполнил: Сафронов В. Е. | ИБКСб-25-1";
+        Console.Title = "Спринт #4 | Выполнил: Сафронов В. Е. | ИБКСб-25-1";
 
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #4                                                               *");
